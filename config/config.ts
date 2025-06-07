@@ -45,4 +45,7 @@ export default defineConfig({
   mfsu: {},
   webpack5: {},
   exportStatic: {}, // 导出静态文件
+  devServer: {
+    port: 7091,
+  },
 });

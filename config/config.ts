@@ -46,7 +46,6 @@ export default defineConfig({
   webpack5: {},
   exportStatic: {}, // 导出静态文件
   devServer: {
-
     port: 7091,
   },
 });
